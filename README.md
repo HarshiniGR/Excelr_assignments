@@ -1,1 +1,1 @@
-Basic descriptive statistics
+Data Science Assignments
